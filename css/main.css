@@ -15,8 +15,8 @@
   justify-content: space-around;
   align-items: center;
   background-color: #eae9e9;
-  border-bottom-color: #2850d5;
-  box-shadow: 0 0 20px #2850d5;
+  border-bottom-color: #000000;
+  box-shadow: 0 0 20px #000000;
   border-bottom-style: solid;
 }
 
@@ -29,8 +29,8 @@
   left: 0;
   bottom: 0;
   background-color: #eae9e9;
-  border-color: #2850d5;
-  box-shadow: 0 0 10px #2850d5;
+  border-color: #000000;
+  box-shadow: 0 0 10px #000000;
   border-style: solid;
   display: flex;
   flex-direction: row;
